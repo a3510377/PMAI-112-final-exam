@@ -1,4 +1,5 @@
 <div style="display: flex;flex-direction: column;max-width: 80%;">
+	<img src="./ADC.png" alt="ADC" class="offline-handled error-handled" loading="lazy"><br>
 	<img src="./A.png" alt="A" class="offline-handled error-handled" loading="lazy"><br>
 	<img src="./B.png" alt="B" class="offline-handled error-handled" loading="lazy"><br>
 	<img src="./C.png" alt="C" class="offline-handled error-handled" loading="lazy"><br>
